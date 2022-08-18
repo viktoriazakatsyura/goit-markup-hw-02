@@ -128,6 +128,7 @@ background: #2F303A;
     font-size: 16px;
     line-height: 19px;
     letter-spacing: 0.03em;
+    text-align: center;
     color: #212121;
 }
 .desc {
@@ -135,6 +136,7 @@ background: #2F303A;
     font-size: 16px;
     line-height: 19px;
     letter-spacing: 0.03em;
+    text-align: center;
     color: #757575;
 }
 .items_main {
@@ -193,6 +195,7 @@ background: #2F303A;
 
 .item-footer, .item {
     text-decoration: none;
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height: 24px;
